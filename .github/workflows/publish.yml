@@ -7,7 +7,7 @@ on:
     - main
 
 env:
-  appname: coming-soon-demo
+  appname: stunning-umbrella
 
 jobs:
   build_and_publish:

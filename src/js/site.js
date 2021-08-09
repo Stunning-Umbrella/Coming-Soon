@@ -1,11 +1,5 @@
 // Set the date we're counting down to
-//var countDownDate = new Date("Oct 2, 2021 00:00:00");
-
-// For DEMO... for realz set the date above instead
-var countDownTo = new Date();
-countDownTo.setDate(countDownTo.getDate() + 10);
-var countDownDate = countDownTo.getTime();
-// DEMO code done
+var countDownDate = new Date("Aug 16, 2021 05:00:00");
 
 // Update the count down every 1 second
 var x = setInterval(function() {

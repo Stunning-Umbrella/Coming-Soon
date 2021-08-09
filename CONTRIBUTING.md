@@ -1,3 +1,3 @@
 # Contributing
 
-As this is a demo org there should not be anything much of value in here to contribute to... if there is let me know and maybe I've committed code to the wrong place 😋
+Thanks for the interest but we're not taking any contributions to our coming soon page.

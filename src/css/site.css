@@ -31,7 +31,7 @@ html {
 
 .top {
     position: absolute;
-    top: 0;
+    top: 16px;
     left: 16px;
     color: black;
 }
